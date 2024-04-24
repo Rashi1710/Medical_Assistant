@@ -13,7 +13,7 @@ To run the recommendation system locally, follow these steps:
 1. **Clone the Repository**:
 git clone https://github.com/Rashi1710/Medical_Assistant.git
 
-cd Medical_Assistant
+     cd Medical_Assistant
 
 
 3. **Initialize Environment**:
