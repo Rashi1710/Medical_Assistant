@@ -12,22 +12,23 @@ To run the recommendation system locally, follow these steps:
 
 1. **Clone the Repository**:
 git clone https://github.com/Rashi1710/Medical_Assistant.git
+
 cd Medical_Assistant
 
 
-2. **Initialize Environment**:
+3. **Initialize Environment**:
 source env/bin/activate
 
 
-3. **Install Dependencies**:
+4. **Install Dependencies**:
 pip install -r requirements.txt
 
 
-4. **Run the Application**:
+5. **Run the Application**:
 streamlit run main.py
 
 
-5. **Access the Application**:
+6. **Access the Application**:
 Once the application is running, open your web browser and navigate to follow thee link to access the recommendation system.
 
 ## Usage
